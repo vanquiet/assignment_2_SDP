@@ -1,4 +1,4 @@
-# Assignment 2: Factory Method & Abstract Factory
+# Assignment 2
 
 A console-based Java application combining the **Factory Method** and **Abstract Factory** design patterns within a single delivery system.
 
